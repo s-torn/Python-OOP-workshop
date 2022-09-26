@@ -1,0 +1,6 @@
+Running function: example.
+Function result: I'm a function.
+Running function: example.
+Function result: I'm a function.
+Running function: example_2.
+Function result: 5.
